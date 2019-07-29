@@ -20,4 +20,4 @@ This repo contains all of my personal LeetCode solutions.  The coding solutions 
 
 | Solved | # | Title | Acceptance | Difficulty | Solution | Runtime | Memory | Language |
 | :----: | - | ----- | ---------- | ---------- | -------- | ------- | ------ | :------: |
-| ✔️ | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 44.3% | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat) | [GitHub](Solutions/1.%20Two%20Sum/Solution.js) | 48ms | 34.8 MB | ![JavaScript](https://img.shields.io/badge/JavaScript--f1e05a.svg?style=flat) |
+| ✔️ | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 44.3% | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat) | [GitHub](Solutions/1.%20Two%20Sum/Solution.js) | 44ms | 34.6 MB | ![JavaScript](https://img.shields.io/badge/JavaScript--f1e05a.svg?style=flat) |
