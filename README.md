@@ -7,13 +7,13 @@
 [![Hard](https://img.shields.io/badge/Hard-0-d9534f.svg?style=flat)](https://github.com/CrutchTheClutch/HackerRank#table-of-contents)
 </br>
 [![Languages](https://img.shields.io/badge/Languages-C%23,%20JavaScript-red.svg?style=flat)](https://github.com/CrutchTheClutch/HackerRank#table-of-contents)
-[![Author](https://img.shields.io/badge/Author-William%20Crutchfield-blue.svg?style=flat)](https://www.hackerrank.com/CrutchTheClutch)
+[![Author](https://img.shields.io/badge/Author-William%20Crutchfield-blue.svg?style=flat)](https://leetcode.com/CrutchTheClutch/)
 
 </div>
 </br>
 </br>
 
-This repo contains all of my personal LeetCode solutions. The coding solutions provided within this repo are entirely provided by me, [William Crutchfield](https://www.hackerrank.com/CrutchTheClutch).
+This repo contains all of my personal LeetCode solutions. The coding solutions provided within this repo are entirely provided by me, [William Crutchfield](https://leetcode.com/CrutchTheClutch/).
 
 _All solutions were made with the sole intent of solving the corresponding LeetCode challenge. Solutions may not be as efficient as possible._
 
